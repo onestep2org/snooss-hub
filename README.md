@@ -1,2 +1,2 @@
 # snooss-hub
-snooss community hub - communicate and share
+Security Network Operations - snooss community hub - communicate and share
