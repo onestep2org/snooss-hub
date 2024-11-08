@@ -6,4 +6,4 @@ Your place for sharing and discussing stuff concerning "SNOOSS" - Security Netwo
 Please visit https://www.snooss.com for more details about SNOOSS.
 
 ## contributing
-Please have a look to our simple [contributing guide](CONTRIBUTUING.md).
+Please have a look to our simple [contributing guide](CONTRIBUTING.md).
