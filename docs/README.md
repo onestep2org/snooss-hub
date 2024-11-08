@@ -14,7 +14,7 @@ Please do not use special characters in file/folder names.
 
 Please avoid the usage of mutated vowels (in german "Umlaute") in file/folder names.
 
-## integrated open source projects specfic documentation
+## integrated open source project specfic documentation
 If you want to document/share stuff related to a specific open source project (integrated with snooss) please do this project specific.
 
 Example:
